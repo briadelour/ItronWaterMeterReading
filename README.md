@@ -20,7 +20,7 @@ Using MQTT Explorer to browse the rtl_433 data stream, you may find **multiple I
 
 ## Hardware Requirements
 
-Same SDR dongle as described in the [base README](./README-345.md):
+Same SDR dongle as described in the [base README](https://github.com/briadelour/HoneywellSecuritySensors):
 
 - **SDR Dongle**: [Nooelec RTL-SDR v5](https://www.amazon.com/dp/B01GDN1T4S) (or compatible RTL2832U-based dongle)
 - **Physical meter access**: You'll need to open your meter box to find the 8-digit transmitter ID on the Itron device attached to your Badger meter
@@ -29,7 +29,7 @@ Same SDR dongle as described in the [base README](./README-345.md):
 
 ## Software Requirements
 
-Same stack as the [base README](./README-345.md) — no additional add-ons required:
+Same stack as the [base README](https://github.com/briadelour/HoneywellSecuritySensors) — no additional add-ons required:
 
 - **Mosquitto broker**
 - **rtl_433** add-on
